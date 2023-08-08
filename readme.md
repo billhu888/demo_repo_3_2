@@ -10,3 +10,10 @@ Bangkok
 
 Manila
 Taipei
+
+Other Japanese Cities
+
+Yokohama
+Kyoto
+Osaka
+Kobe
